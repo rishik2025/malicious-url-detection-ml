@@ -19,4 +19,4 @@ This project detects malicious URLs using machine learning and VirusTotal API.
 CODE/
 INFO/
 README.md
-screenshots/<img width="664" height="436" alt="File Scan Output Using SHA-256 Hash" src="https://github.com/user-attachments/assets/37604e70-f22c-4411-b659-10589be337c1" />
+
